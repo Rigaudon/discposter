@@ -1,0 +1,11 @@
+{
+  "token": "TOKEN HERE",
+  "token_type": "user",
+  "default_channel": "thread",
+  "message": ["⬇️ Click below to go to the top ⬇️","https://discord.com/channels/324132423636090880/1549835396211409008"],
+  "min_minutes": 30,
+  "max_minutes": 60,
+  "channels": {
+    "thread": "https://discord.com/channels/324132423636090880/1200546041716539443/threads/1549835396211409008"
+  }
+}
